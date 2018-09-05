@@ -1,0 +1,28 @@
+{
+	"name": "shotgun-query",
+	"version": "0.1.0",
+	"description": "An object query & function call DSL",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codefeathers/shotgun.git"
+	},
+	"keywords": [
+		"gunner",
+		"domain-specific-language",
+		"object",
+		"query"
+	],
+	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/codefeathers/shotgun/issues"
+	},
+	"homepage": "https://github.com/codefeathers/shotgun#readme",
+	"dependencies": {
+		"bracket-split": "^1.1.4"
+	}
+}

@@ -1,0 +1,12 @@
+dependencies:
+  bracket-split: 1.1.4
+packages:
+  /bracket-split/1.1.4:
+    dev: false
+    resolution:
+      integrity: sha512-O0FV/j4y/1Rzp/FlUZNy+AdNVfvPpBNRHe+8bpN5T4n7vm5N286TaT9Jvgvp0oEvNHTFU9dZIEpjvT/K7fKrqw==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  bracket-split: ^1.1.4
