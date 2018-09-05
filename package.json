@@ -1,6 +1,6 @@
 {
 	"name": "shotgun-query",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "An object query & function call DSL",
 	"main": "index.js",
 	"scripts": {
